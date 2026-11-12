@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+lessons/
+artifacts/
+*.db
+!vendor/english-immersion-reader/artifacts/
+vendor/english-immersion-reader/artifacts/*
+!vendor/english-immersion-reader/artifacts/capture_states.py

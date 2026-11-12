@@ -1,0 +1,3 @@
+display_name: "Shadowing Practice"
+short_description: "影子跟读训练法，通过同步跟读提升听力理解和口语流利度"
+default_prompt: "请使用 shadowing-practice 为我生成一次可执行的英语学习训练，并给出反馈和复习项。"

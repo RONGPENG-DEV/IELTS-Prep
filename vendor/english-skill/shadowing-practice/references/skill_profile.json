@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "skill_name": "shadowing-practice",
+  "display_name": "Shadowing Practice",
+  "category": "发音/语音",
+  "description": "影子跟读训练法，通过同步跟读提升听力理解和口语流利度",
+  "capabilities": [
+    "拆解目标音、音节、重音和连读",
+    "生成跟读、影子练习和录音反馈清单",
+    "记录发音问题并安排高频复习"
+  ],
+  "workflow_phases": [
+    "目标音定位",
+    "口腔动作说明",
+    "最小对立练习",
+    "句子跟读",
+    "录音自检",
+    "纠错建议",
+    "复习安排"
+  ],
+  "assessment_dimensions": [
+    "音素准确度",
+    "重音节奏",
+    "连读弱读",
+    "可懂度"
+  ],
+  "review_item_types": [
+    "pronunciation",
+    "sentence",
+    "minimal_pair"
+  ],
+  "sample_requests": [
+    "我想练习 th 音和句子重音。"
+  ],
+  "output_labels": [
+    "影子跟读原理",
+    "适用材料",
+    "练习步骤",
+    "每日练习计划",
+    "材料推荐"
+  ]
+}
